@@ -1,4 +1,4 @@
-<!-- BEGIN MUNGE: GENERATED_TOC -->
+<!--- BEGIN MUNGE: GENERATED_TOC --->
 - [v1.9.3](#v193)
   - [Downloads for v1.9.3](#downloads-for-v193)
     - [Client Binaries](#client-binaries)
